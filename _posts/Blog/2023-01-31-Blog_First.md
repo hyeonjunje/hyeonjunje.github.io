@@ -14,3 +14,4 @@ tag: [blog, jekyll]
 
 기본적인 블로그 만드는 방법은 테디노트님 유튜브를 참고했습니다.
 {% include video id="--MMmHbSH9k" provider="youtube" %}
+
