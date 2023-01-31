@@ -269,13 +269,13 @@ defaults:
       show_date: true
       toc: true
       toc_sticky: true
-      toc_label: 목차
+      toc_label: "목차"
       author_profile: false
-      sidebar:      # 왼쪽 사이드 바
+      sidebar:
           nav: "docs"
   # _pages                      : 해당 하단 영역이 새로 추가되었습니다.
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
