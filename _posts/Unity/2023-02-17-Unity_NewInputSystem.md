@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "[Unity] New Input System #1 새로운 인력 시스템 사용하기"
-categories: typing
+categories: Unity
 tag: [Unity]
 # search: false 검색 기능에 나오지 않게 할려면 false
 ---
