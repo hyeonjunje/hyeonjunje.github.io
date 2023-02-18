@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "블로그 커밋 이슈"
+title:  "[Blog] 블로그 커밋 이슈"
 categories: blog
 tag: [blog, github, git]
 # search: false 검색 기능에 나오지 않게 할려면 false

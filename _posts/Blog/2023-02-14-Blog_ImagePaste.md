@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "깃허브 블로그 편리하게 이미지 올리기"
+title:  "[Blog] 깃허브 블로그 편리하게 이미지 올리기"
 categories: blog
 tag: [blog, vscode, extension]
 # search: false 검색 기능에 나오지 않게 할려면 false

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "프로그래머스 코딩테스트 고득점 Kit - Heap 편"
+title:  "[프로그래머스] 프로그래머스 코딩테스트 고득점 Kit - Heap 편"
 categories: codingtest
 tag: [codingtest]
 # search: false 검색 기능에 나오지 않게 할려면 false

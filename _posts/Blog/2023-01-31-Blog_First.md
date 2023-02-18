@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "블로그를 시작했습니당."
+title:  "[Blog] 블로그를 시작했습니당."
 categories: blog
 tag: [blog, jekyll]
 # search: false 검색 기능에 나오지 않게 할려면 false
