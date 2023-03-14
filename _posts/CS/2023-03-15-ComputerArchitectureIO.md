@@ -1,5 +1,6 @@
 ---
 layout: single
+published: true
 title:  "[CS] 컴퓨터 구조 - 입출력장치"
 categories: CS
 tag: [CS]
