@@ -282,3 +282,6 @@ defaults:
       author_profile: true
 
 date_format: "%Y-%m-%d"
+
+# local엔 반영된는데 실제로는 갱신안될 때 이거 추가
+futrue : true
